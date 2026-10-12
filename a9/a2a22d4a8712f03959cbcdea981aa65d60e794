@@ -1,0 +1,19 @@
+js/app.js
+  s_0593e88bea9019::t_bb9022e903246e 207
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.49-trip",
+  "base_commit_sha": "a9a2a22d4a8712f03959cbcdea981aa65d60e794",
+  "prompts": {},
+  "sessions": {
+    "s_0593e88bea9019": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d267f85-8a91-48d7-ae1c-4c2c5c0b684e",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Elena Lu （陆靖沂） <elenalu@trip.com>"
+    }
+  }
+}
