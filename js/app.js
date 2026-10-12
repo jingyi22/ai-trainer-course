@@ -204,6 +204,7 @@ const App = (() => {
       quizTab.classList.add("hidden");
 
       document.querySelector('.tab-btn[data-tab="practice"]').style.display = hasPractice ? "" : "none";
+      document.querySelector('.tab-btn[data-tab="quiz"]').style.display = "none";
       learnTab.innerHTML = `<div class="lesson-prose">${lesson.learnHtml}</div>`;
       if (hasPractice) renderPractice(lesson.practice);
     }
